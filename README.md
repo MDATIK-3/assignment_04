@@ -41,18 +41,18 @@ A modern, full-featured web application that provides AI-powered text and image 
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone <repository-url>
-   cd ai-studio
+   cd <project Name>
    ```
 
 2. **Install dependencies**
-   ```bash
+   ```
    npm install
    ```
 
 3. **Start the development server**
-   ```bash
+   ```
    npm run dev
    ```
 
